@@ -4,6 +4,8 @@ from PIL import Image
 import numpy as np
 import os
 
+os.environ['PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION'] = 'python'
+
 
 model_path = "X:\\DSProject\\Dl Projects\\Fashion_MNIST\\trained_fashion_mnist_model.h5"
 
