@@ -1,6 +1,7 @@
 numpy
 pandas
-tensorflow
 ipykernel
 matplotlib 
+tensorflow==2.15.0
+protobuf==3.20.*
 streamlit
