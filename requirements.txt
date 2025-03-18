@@ -3,6 +3,6 @@ pandas
 ipykernel
 matplotlib 
 tensorflow==2.19.0
-keras==2.19.0
+keras==3.9.0
 h5py
 streamlit
